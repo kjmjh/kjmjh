@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25BAF7&center=true&width=435&lines=I'm+kjmjh;Sky+cloud!;I+like+minecraft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41C2F7&center=true&vCenter=true&width=435&lines=I'm+kjmjh;Sky+cloud!;I+like+minecraft)](https://git.io/typing-svg)
 
 ## 一个初中生 ##
 
