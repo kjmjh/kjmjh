@@ -58,18 +58,3 @@ Bilibili:前面有((
 
 其实还有很多，但在这里我只列出主要的
 
-## 人生醒言 ##
-
-如果说学习是最轻松的道路，那么在我看来，兴趣和热爱就是它的导航。
-
-<a href="https://www.7ed.net/get-api/ruozi.html" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.7ed.net%2Fruozi%2Fapi&query=%24.ruozi&style=flat-square&label=%E5%BC%B1%E6%99%BA%E5%90%A7&color=purple&cacheSeconds=10" alt="弱智吧">
-  </a>
-
-![Visitor Count](https://profile-counter.glitch.me/kjmjh/count.svg)
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kjmjh/kjmjh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kjmjh/kjmjh/output/github-contribution-grid-snake.svg" />
-<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kjmjh/kjmjh/output/github-contribution-grid-snake.svg" />
-</picture>
