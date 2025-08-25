@@ -20,7 +20,6 @@ C
 
 Python
 
-注:我的大部分语言都是自学的，所以代码可能会有一点野性的韵味:)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjmjh)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,10 +36,6 @@ Python
 邮箱:kj23awa@outlook.com(我不会经常看邮箱，其实还有一个，但我懒得写了)
 
 Bilibili:[kj23qaq](https://space.bilibili.com/3546773983332961?spm_id_from=333.1007.0.0)
-
-极端联系方式: Minecraft滑滑水服务器，地址: mc.huahuamc.cn
-
-只有周末或假期我才会看消息，因为我住校(
 
 ## 关于我 ##
 
