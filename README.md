@@ -21,6 +21,8 @@ Javascript 15%
 
 C 10%
 
+brainfuck 50%(这是什么鬼?)
+
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjmjh)](https://github.com/anuraghazra/github-readme-stats)
