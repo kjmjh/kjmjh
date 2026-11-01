@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="text-align:center;font-size:40px">Hi there!<div>
+<div style="text-align:center;font-size:40px">Hi there!</div>
 
 ## 一个高中生 
 
@@ -38,3 +38,4 @@ brainfuck
 
 Bilibili:[kj23qaq](https://space.bilibili.com/3546773983332961?spm_id_from=333.1007.0.0)
 
+</div>
