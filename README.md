@@ -1,27 +1,24 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41C2F7&center=true&vCenter=true&width=435&lines=I'm+kjmjh;Sky+cloud!;I+like+minecraft" alt="Typing SVG" /></a>
+<div style="text-align:center;font-size:40px">Hi there!<div>
 
-</div>
-
-## 一个初中生 
+## 一个高中生 
 
 
 ## 技能 
 
 ```
-HTML 30%
+python
 
-Python 30%
+c
 
-CSS 15%
+rust
 
-Javascript 15%
+html/css/javascript
 
-C 10%
+shell
 
-brainfuck 50%(这是什么鬼?)
+brainfuck
 
 ```
 
@@ -40,8 +37,4 @@ brainfuck 50%(这是什么鬼?)
 邮箱:kj23awa@outlook.com
 
 Bilibili:[kj23qaq](https://space.bilibili.com/3546773983332961?spm_id_from=333.1007.0.0)
-
-某手短视频平台:云白醒梦
-
-祝你天天开心!
 
